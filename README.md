@@ -5,5 +5,5 @@
 ## Usage
 install Node.js, then:
 ```
-$ npx ninja
+$ npx devoc
 ```
